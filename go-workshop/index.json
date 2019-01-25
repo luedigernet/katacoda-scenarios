@@ -3,7 +3,7 @@
   "description": "A short 101 session for the go language",
   "details": {
     "assets": {
-      "host01": [
+      "client": [
         {
           "file": "main.go",
           "target": "~/main.go"
