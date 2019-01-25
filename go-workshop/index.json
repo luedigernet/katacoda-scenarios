@@ -6,7 +6,7 @@
       "client": [
         {
           "file": "main.go",
-          "target": "~/main.go"
+          "target": "~/scrapbook/tutorial"
         }
       ]
     },
